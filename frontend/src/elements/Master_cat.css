@@ -1,0 +1,48 @@
+.shutter{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.cards{
+    width: 200px;
+    height: 250px;
+   border: 2px solid rgb(82, 233, 82);
+   border-radius: 20px;
+   margin-right: 10%;
+   margin-top: 10%;
+}
+
+
+
+.card_main{
+   
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+   
+    justify-content: center;
+
+}
+
+.card_img{
+    width: 100px;
+    height: 100px;
+}
+
+.cards_inner{
+    display: flex;
+    justify-content: center;
+}
+
+.cards_text h3{
+    justify-content: center;
+    display: flex;
+    font-family: monospace;
+}
+
+
+.cards_text{
+    text-align: center;
+    font-family: cursive;
+}

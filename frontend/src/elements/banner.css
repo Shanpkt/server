@@ -1,0 +1,10 @@
+.bannerBox{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.bannerBox img{
+    width: 70%;
+}
